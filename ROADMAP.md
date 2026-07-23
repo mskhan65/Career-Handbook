@@ -960,11 +960,16 @@ After completing this phase, you'll be prepared for roles such as:
 
 ---
 
-# 🏢 Phase 9 – Business AI
+
+
+
+---
+
+# 📊 Phase 10 – Data & Analytics
 
 ## 📖 Overview
 
-Artificial Intelligence is transforming every industry. In this phase, you'll learn how organizations leverage AI to improve efficiency, automate operations, enhance customer experiences, and create competitive advantages. You'll explore practical business use cases and learn how to identify, design, and implement AI solutions that solve real-world business problems.
+Data is the foundation of every successful AI system. In this phase, you'll learn how to collect, clean, analyze, visualize, and manage data for AI applications. You'll also explore modern data engineering practices, analytics, and vector-based retrieval systems that power intelligent applications.
 
 ---
 
@@ -972,67 +977,67 @@ Artificial Intelligence is transforming every industry. In this phase, you'll le
 
 By the end of this phase, you will be able to:
 
-- Identify AI opportunities across industries.
-- Design AI solutions for business challenges.
-- Improve business processes using AI.
-- Build AI-powered products and services.
-- Understand AI strategy and digital transformation.
-- Deliver measurable business value through AI.
+- Understand the AI data lifecycle.
+- Collect and prepare data for AI systems.
+- Analyze and visualize datasets.
+- Build data pipelines.
+- Work with structured, unstructured, and vector data.
+- Evaluate AI systems using data-driven metrics.
 
 ---
 
 ## 📚 Topics Covered
 
-### Business Fundamentals
-1. AI in Business
-2. Digital Transformation
-3. Business Process Analysis
-4. AI Strategy
+### Data Fundamentals
+1. Types of Data
+2. Data Collection
+3. Data Cleaning
+4. Data Preparation
+5. Data Quality
 
-### Business Functions
-5. AI for Marketing
-6. AI for Sales
-7. AI for Customer Support
-8. AI for HR
-9. AI for Finance
-10. AI for Operations
+### Data Analysis
+6. Exploratory Data Analysis (EDA)
+7. Statistics for AI
+8. Data Visualization
+9. Dashboards
+10. Business Intelligence
 
-### Industry Applications
-11. AI in Healthcare
-12. AI in Education
-13. AI in E-commerce
-14. AI in Manufacturing
-15. AI in Logistics
-16. AI in Banking
+### Data Engineering
+11. SQL for AI
+12. ETL & ELT Pipelines
+13. Data Warehouses
+14. Data Lakes
+15. Data Pipelines
 
-### Entrepreneurship
-17. AI Consulting
-18. AI Freelancing
-19. AI Startups
-20. AI SaaS Business Models
-21. AI Product Management
+### AI Data
+16. Embeddings
+17. Vector Databases
+18. Knowledge Bases
+19. Feature Engineering
+20. AI Evaluation Metrics
 
 ---
 
 ## 🛠️ Hands-on Projects
 
-- AI Business Consultant
-- AI Sales Assistant
-- AI Customer Support Platform
-- AI Marketing Campaign Generator
-- AI Business Dashboard
-- AI Startup MVP
+- AI Analytics Dashboard
+- Customer Insights Platform
+- AI Data Pipeline
+- Document Search System
+- Business Intelligence Dashboard
+- Vector Search Application
 
 ---
 
 ## 🎓 Skills You'll Gain
 
-- Business Analysis
-- AI Strategy
-- AI Product Thinking
-- Process Automation
-- AI Consulting
-- Entrepreneurship
+- Data Analysis
+- Data Engineering
+- SQL
+- Data Visualization
+- AI Data Management
+- Vector Search
+- Business Analytics
 
 ---
 
@@ -1040,11 +1045,11 @@ By the end of this phase, you will be able to:
 
 By the end of this phase, you should have:
 
-- ✅ Designed AI solutions for multiple industries.
-- ✅ Built AI-powered business tools.
-- ✅ Created a business-focused AI portfolio.
-- ✅ Developed an AI product or MVP.
-- ✅ Solved real-world business case studies.
+- ✅ Built multiple data-driven AI projects.
+- ✅ Created interactive dashboards.
+- ✅ Designed data pipelines.
+- ✅ Implemented vector search solutions.
+- ✅ Published analytics projects on GitHub.
 
 ---
 
@@ -1058,22 +1063,21 @@ By the end of this phase, you should have:
 
 After completing this phase, you'll be prepared for roles such as:
 
-- AI Consultant
-- AI Product Manager
-- AI Solutions Architect
-- AI Business Analyst
-- AI Entrepreneur
-- AI Innovation Specialist
+- Data Analyst
+- AI Data Engineer
+- Analytics Engineer
+- Business Intelligence Developer
+- AI Solutions Engineer
+- Data Platform Engineer
 
 ---
 
 ## 📌 Milestone
 
-✅ You can confidently identify business opportunities, design AI solutions, and create AI-powered products that deliver real business value.
+✅ You can confidently collect, analyze, visualize, and manage data to power modern AI applications and make data-driven decisions.
 
 
 
----
 
 # 🔒 Phase 11 – AI Security & Responsible AI
 
