@@ -59,35 +59,20 @@ The AI Generalist Handbook is organized into progressive learning phases, taking
 | Phase | Topics Covered |
 |--------|----------------|
 | ✅ **Phase 1 – AI Foundations** | Artificial Intelligence, Machine Learning, Deep Learning, Neural Networks, Computer Vision, Natural Language Processing, Generative AI, AI Ethics, AI History & Evolution |
-
 | ⏳ **Phase 2 – AI Productivity** | ChatGPT, Claude, Gemini, Copilot, Perplexity, NotebookLM, AI Research, AI Writing, AI Coding, AI Learning, AI Office Productivity |
-
 | ⏳ **Phase 3 – Prompt Engineering & Modern LLMs** | Prompt Engineering, Prompt Patterns, Context Engineering, System Prompts, Role Prompting, Few-shot Prompting, Chain of Thought, Structured Outputs, Function Calling, Embeddings, Tokenization, Fine-tuning, LLM Fundamentals |
-
 | ⏳ **Phase 4 – AI Agents** | AI Agents, Agentic Workflows, Multi-Agent Systems, Model Context Protocol (MCP), Tool Calling, Memory, Planning, Reasoning, RAG, Autonomous AI |
-
 | ⏳ **Phase 5 – Multimodal AI** | Image Generation, Video Generation, Audio Generation, Music Generation, Vision Models, OCR, Speech-to-Text, Text-to-Speech, Avatar AI |
-
 | ⏳ **Phase 6 – AI Development** | Python, Git & GitHub, APIs, FastAPI, Streamlit, Gradio, LangChain, LlamaIndex, Vector Databases, SQL, NoSQL, Docker, REST APIs |
-
 | ⏳ **Phase 7 – AI Applications** | AI Chatbots, AI Assistants, AI Websites, AI Web Applications, AI Mobile Applications, Browser Extensions, AI Search Engines, AI Dashboards, AI SaaS, Internal AI Tools |
-
 | ⏳ **Phase 8 – Automation & AI Ops** | n8n, Make, Zapier, Workflow Automation, AI Pipelines, Deployment, Monitoring, CI/CD, Cloud Deployment, Model Serving, AI Infrastructure |
-
 | ⏳ **Phase 9 – Business AI** | AI Marketing, AI Sales, AI Customer Support, AI HR, AI Finance, AI Healthcare, AI Education, AI Consulting, AI Freelancing, AI Startups, AI Product Management |
-
 | ⏳ **Phase 10 – Data & Analytics** | SQL, Pandas, NumPy, Data Analysis, Data Visualization, ETL, Data Cleaning, Feature Engineering, Business Intelligence, Dashboards |
-
 | ⏳ **Phase 11 – AI Security & Responsible AI** | AI Security, Prompt Injection, Jailbreak Attacks, AI Privacy, Model Safety, Responsible AI, AI Governance, Risk Management |
-
 | ⏳ **Phase 12 – Cloud & Deployment** | AWS, Azure AI, Google Cloud AI, Hugging Face, Model Deployment, Serverless AI, Scaling AI Applications, Production Systems |
-
 | ⏳ **Phase 13 – Advanced AI** | Open-Source Models, Local LLMs, Fine-tuning, LoRA, Quantization, AI Evaluation, AI Benchmarking, Synthetic Data, RLHF, Future AI Trends |
-
 | ⏳ **Phase 14 – Career & Portfolio** | GitHub Portfolio, Resume, LinkedIn, Technical Writing, Interview Preparation, Freelancing, Open Source, Personal Branding, Networking, Career Roadmap |
-
 | ⏳ **Phase 15 – Capstone Projects** | AI Assistants, AI Chatbots, RAG Systems, AI Agents, AI Websites, AI Mobile Apps, AI SaaS, AI Business Automation, AI Voice Assistants, AI Research Tools, AI Content Generators, Multi-Agent Systems, Production AI Projects |
-
 | ⏳ **Phase 16 – Mathematics for AI (Optional)** | Linear Algebra, Calculus, Probability, Statistics, Optimization, Information Theory, Matrix Operations, Vectors, Eigenvalues & Eigenvectors, Derivatives, Gradient Descent, Cost & Loss Functions, Partial Derivatives, Bayesian Thinking |
 
 
